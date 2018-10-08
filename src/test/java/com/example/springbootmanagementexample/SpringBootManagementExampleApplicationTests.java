@@ -9,6 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class SpringBootManagementExampleApplicationTests {
 
+	//adding some comments
 	@Test
 	public void contextLoads() {
 	}
